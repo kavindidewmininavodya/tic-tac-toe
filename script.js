@@ -134,8 +134,7 @@ function finalResult() {
                 <b style="color:#dc3545;">X:</b> ${scoreX} points
             </div>
         `,
-        icon: "info",
-        
+       
         toast: true,
         position: "center",     
         showConfirmButton: false,
